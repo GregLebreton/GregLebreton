@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 🌐 Learn more about me: https://gregandev.fr
 
 📧 How to reach me: greg.lebreton@hotmail.com
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/GregLebreton/count.svg" />
+</p>
