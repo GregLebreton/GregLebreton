@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 # Devops Engineer
 
+🌐 Learn more about me: [here](https://gregandev.fr)
 
+💼 Learn more about my work projects: [here](https://git.legaragenumerique.fr/GARAGENUM)
 
-🌐 Learn more about me: https://gregandev.fr
-
-📧 How to reach me: greg.lebreton@hotmail.com
+📧 How to contact me: greg.lebreton@hotmail.com
 
 <p align="center"> 
   Visitor count<br>
